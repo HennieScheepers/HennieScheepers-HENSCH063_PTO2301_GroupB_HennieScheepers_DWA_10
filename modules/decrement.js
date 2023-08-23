@@ -1,7 +1,7 @@
 import { outputEl, valueEl } from "../script.js";
 
 /**
- * Decrements the tally
+ * Decrements the tally by the value
  */
 function decrement() {
   const value = parseInt(valueEl.value);

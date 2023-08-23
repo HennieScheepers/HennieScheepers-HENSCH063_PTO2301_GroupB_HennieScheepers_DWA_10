@@ -1,8 +1,7 @@
 import { outputEl, valueEl } from "../script.js";
 
 /**
- *
- 
+ * Inccrement the tally by the value
  */
 function increment() {
   const value = parseInt(valueEl.value);

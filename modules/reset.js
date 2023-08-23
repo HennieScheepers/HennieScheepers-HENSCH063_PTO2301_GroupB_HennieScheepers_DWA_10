@@ -1,7 +1,7 @@
 import { outputEl, valueEl } from "../script.js";
 
 /**
- * resets the tally and value
+ * Resets the tally and value
  */
 function reset() {
   outputEl.textContent = 0;
