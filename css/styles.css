@@ -7,7 +7,7 @@ body {
 }
 
 .main--container {
-  box-shadow: 00px 00px 100px grey;
+  box-shadow: 0px 0px 20px grey;
   border-radius: 10px;
   padding: 20px;
   width: 600px;
